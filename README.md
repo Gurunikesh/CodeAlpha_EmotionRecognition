@@ -4,6 +4,7 @@ This project detects human emotions from speech audio using a CNN-LSTM deep lear
 
 ## Dataset
 RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song)
+Dataset: www.kaggle.com/datasets/gurunikeshs/ravdess-speech-emotion-recognition-dataset
 
 ## Emotions Detected
 - Angry
